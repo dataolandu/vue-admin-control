@@ -1,0 +1,2 @@
+# vue-admin-control
+The background management system is a spa single page project. The front and rear end are separated. It realizes login, identity identification, user management, role view and authority management. It also realizes the basic functions of adding, deleting and checking. It can set permissions for users, and realize the functions of login interception, user addition, deletion and query, permission giving, deprivation and view. It can be reused as the background of different types of websites.
